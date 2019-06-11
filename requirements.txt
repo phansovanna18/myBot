@@ -1,1 +1,2 @@
-fbchat 1.6.5
+fbchat-1.6.5
+ChatterBot-1.0.5
