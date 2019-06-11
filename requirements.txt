@@ -1,3 +1,4 @@
 fbchat
 ChatterBot
 apiai
+chatterbot_corpus
